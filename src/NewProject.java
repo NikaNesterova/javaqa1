@@ -6,7 +6,7 @@ public class NewProject {
 
         int bonusPerTicket = ticketPrice / bonusMilesPerRubles;
 
-        System.out.println("Начислено милей: " + bonusPerTicket);
+        System.out.println("Начислено милей за покупку билета: " + bonusPerTicket);
 
     }
 }
